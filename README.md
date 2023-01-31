@@ -31,4 +31,4 @@ refurbishment.</p>
 <ol>Model Fitting</ol>
 <ol>Model Evaluation and comparing performance metrices</ol>
 
-<p>For more information, you can read teachnical documentation in my girhub repo.<p/>
+<p>For more information, you can read teachnical documentation in my github repo.<p/>
