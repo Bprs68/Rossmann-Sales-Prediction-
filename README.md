@@ -7,7 +7,7 @@
 <p>In this project, we are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.</p>
 
 ## 2. Approach
-<p>started by pre-processing and cleaning the data before moving to Exploratory Data Analysis to gain insights into our data. After understanding the data, we moved ahead to select models and applying them. We tried tuning hyperparameters to improve our model performance as well.</p>
+<p>We started by pre-processing and cleaning the data before moving to Exploratory Data Analysis to gain insights into our data. After understanding the data, we moved ahead to select models and applying them. We tried tuning hyperparameters to improve our model performance as well.</p>
 
 <b>Steps involved:</b>
 <ol>
